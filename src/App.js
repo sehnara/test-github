@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edizt <code>src/Apdp.js</code> and save to reload.
+          Edizt <code>src/Apdgitp.js</code> and save to reload.
         </p>
         <a
           className="App-link"
